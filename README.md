@@ -12,5 +12,9 @@ This repository contains my beginner to intermediate Python programs while learn
 - Predicts student marks based on input
 - Beginner-level logic project
 
+### 3. CSV Manipulation
+- Uses CSV to calculate percentages and create new data in new CSV 
+- Built using pandas in python
+
 ## Purpose
 To strengthen my Python fundamentals and problem-solving skills.
